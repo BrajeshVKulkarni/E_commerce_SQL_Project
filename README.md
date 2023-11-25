@@ -14,7 +14,7 @@ This eCommerce SQL project involves the creation and management of an online sto
 ## Database Tables Connections
 
 <p align="center">
-  <img src="https://github.com/BrajeshVKulkarni/E_commerce_SQL_Project/blob/main/ecommerce_schema.png" width="750" height="650">
+  <img src="https://github.com/BrajeshVKulkarni/E_commerce_SQL_Project/blob/main/ecommerce_schema.png" width="850" height="600">
 </p>
 
 
