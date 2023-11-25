@@ -13,6 +13,8 @@ This eCommerce SQL project involves the creation and management of an online sto
 
 ## Database Tables Connections
 
+https://github.com/BrajeshVKulkarni/E_commerce_SQL_Project/blob/main/ecommerce_schema.png
+
 
 
 
